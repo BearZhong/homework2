@@ -1,4 +1,5 @@
 # homework2 by Zhong Yushan
+
 import re
 def get_word_frequencies(file_name):
     dic = {}
@@ -24,4 +25,4 @@ def get_word_frequencies(file_name):
     print(dic);
 
 
-get_word_frequencies(r"D:/python test/test.txt.txt")
+get_word_frequencies(r"D:/homework2.txt.txt")
